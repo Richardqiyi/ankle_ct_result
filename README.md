@@ -6,7 +6,7 @@ Metrics:
 | resnet18 with attention map |    0.5255 |        0.297  |        0.894  |
 | resnet34 with attention map |     0.524  |        0.2886 |        0.8948 |
 
-## ResNet18 with attention map unnormalised confusion matric
+## ResNet18 with attention map unnormalised confusion matrix
 
 |    | 0   | 1   | 2  | 3   | 4 | 5  | 6 |
 |----|-----|-----|----|-----|---|----|---|
@@ -18,7 +18,7 @@ Metrics:
 | 5  | 0   | 633 | 0  | 92  | 0 | 185| 0 |
 | 6  | 48  | 695 | 2  | 303 | 4 | 40 | 4 |
 
-## ResNet18 with attention map normalised confusion matric
+## ResNet18 with attention map normalised confusion matrix
 
 |    | 0     | 1     | 2    | 3    | 4 | 5    | 6   |
 |----|-------|-------|------|------|---|------|-----|
@@ -30,7 +30,7 @@ Metrics:
 | 5  | 0     | 0.696 | 0    | 0.101| 0 | 0.203| 0   |
 | 6  | 0.044 | 0.634 | 0.002| 0.276| 0.004| 0.036| 0.004|
 
-## ResNet34 with attention map unnormalised confusion matric
+## ResNet34 with attention map unnormalised confusion matrix
 
 |    | 0   | 1   | 2  | 3   | 4 | 5  | 6 |
 |----|-----|-----|----|-----|---|----|---|
@@ -42,7 +42,7 @@ Metrics:
 | 5  | 16  | 577 | 0  | 110 | 0 | 207| 0 |
 | 6  | 0   | 658 | 1  | 253 | 25| 141| 18|
 
-## ResNet34 with attention map normalised confusion matric
+## ResNet34 with attention map normalised confusion matrix
 
 |    | 0     | 1     | 2    | 3    | 4 | 5    | 6   |
 |----|-------|-------|------|------|---|------|-----|
