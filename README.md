@@ -7,14 +7,22 @@ Metrics:
 | resnet34 with attention map |     0.524  |        0.2886 |        0.8948 |
 
 ## ResNet18 with attention map unnormalised confusion matrix
-Index - fracture type
+
+### Index - fracture type
 0 - malleolar_ao44_a
+
 1 - malleolar_ao44_b
+
 2 - malleolar_ao44_c
-3 - no_fracture          
+
+3 - no_fracture 
+
 4 - pilon_ao43_a
+
 5 - pilon_ao43_b
+
 6 - pilon_ao43_c
+
 
 |    | 0   | 1   | 2  | 3   | 4 | 5  | 6 |
 |----|-----|-----|----|-----|---|----|---|
